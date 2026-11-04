@@ -6,11 +6,10 @@ The Resume Classification System is an NLP and Machine Learning-based applicatio
 ## Application Screenshots
 
 ### Resume Classification Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Resume Prediction Result
-![Prediction Result](screenshots/prediction.png)
-
+![Prediction Result](./screenshots/prediction.png)
 
 ## Objectives
 - Automate resume classification using Machine Learning.
