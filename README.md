@@ -3,6 +3,15 @@
 ## Project Overview
 The Resume Classification System is an NLP and Machine Learning-based application that automatically classifies resumes into predefined job categories. It extracts text from uploaded resumes, applies NLP preprocessing, converts text into numerical features using TF-IDF, and predicts the appropriate category using a trained Machine Learning model.
 
+## Application Screenshots
+
+### Resume Classification Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Resume Prediction Result
+![Prediction Result](screenshots/prediction.png)
+
+
 ## Objectives
 - Automate resume classification using Machine Learning.
 - Apply NLP techniques to clean and process resume text.
